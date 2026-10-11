@@ -45,8 +45,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1,6 بنگلا الهند
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1,6 ماليزيا
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1,7 اسبانيا
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1,7 تركيا
@@ -55,8 +53,6 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1,7ABC رومانيا
 https://live.tele7abc.ro/hls/stream/index.m3u8
-#EXTINF:-1,10 قرطبة الأرجنتين
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1,12 تركيا
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTINF:-1,12 روسيا
@@ -99,8 +95,6 @@ https://stream1.freetv.fun/e103260021cb97f92e9d1125fa2cb5f35605a68a6dbf074b87e79
 https://streamconex.com:19360/lacosta/lacosta.m3u8
 #EXTINF:-1,86 روسيا
 https://sitv.ru/hls/s86.m3u8
-#EXTINF:-1,100 تركيا
-https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1,100%NEWS اوكرانيا
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1,264 SAKARYA تركيا
@@ -119,8 +113,6 @@ http://69.64.57.208/atv/playlist.m3u8
 https://stream.a1mediagroep.nl/hls/a1tv.m3u8
 #EXTINF:-1,A7 رومانيا
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
-#EXTINF:-1,Aaj Tak الهند
-https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 #EXTINF:-1,Abante الفلبين
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-1,ABC 2 Baltimore MD امريكا
@@ -241,8 +233,6 @@ https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1,Belle Amie صربيا
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-#EXTINF:-1,Better Life Nature Channel امريكا
-https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1,BFM DICI Haute-Provence فرنسا
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
 #EXTINF:-1,BFM Marseille فرنسا
@@ -281,16 +271,12 @@ https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1,BRT تركيا
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
-#EXTINF:-1,BRTV الصين
-https://stream1.freetv.fun/5cf215e3b6c2a57b3d9ca62ad90772f4844f5b777d6143c1df798632e215cf99.ctv
 #EXTINF:-1,BS Nippon TV اليابان
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 #EXTINF:-1,BS TV Tokyo اليابان
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1,BTA فنزويلا
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1,BTN كوريا الجنوبية
-https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1,Btv اندونيسيا
 https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
 #EXTINF:-1,BTV بنغلادش
@@ -303,10 +289,6 @@ https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 https://stream8.cinerama.uz/1459/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BX بلجيكا
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1,C1 منغوليا
-https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8
-#EXTINF:-1,c5n الأرجنتين
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
 #EXTINF:-1,Canal 1 Nuble شيلي
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1,Canal 3 La Pampa الأرجنتين
@@ -347,8 +329,6 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1,Channel 10  امريكا
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
-#EXTINF:-1,Channel 11 منغوليا
-https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8
 #EXTINF:-1,CHCO كندا
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1,Chile شيلي
@@ -375,10 +355,6 @@ https://live1.mediadesk.al/cnatvlive.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1,Cnews فرنسا
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
-#EXTINF:-1,CNN البرتغال
-https://stream1.freetv.fun/f94d130c709c2704636ea96b1e8a9bb967bf963dd9e34a795688947dbcd5b3a2.m3u8
-#EXTINF:-1,CNN امريكا
-https://stream1.freetv.fun/2224f39d377336d871b4da8aa0913f14c75adf5a779ffa185400506603db0374.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1,COM Brasil البرازيل
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
@@ -408,10 +384,6 @@ https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playli
 https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
 #EXTINF:-1,DD Assam الهند
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
-#EXTINF:-1,DD Bangla الهند
-https://mumt05.tangotv.in/DDBANGLA/index.m3u8
-#EXTINF:-1,DD Bihar الهند
-https://cdn-4.pishow.tv/live/35/master.m3u8
 #EXTINF:-1,DD Chandana الهند
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3829f99b-4951-4a9d-98c1-dbc3acfe5193/2.m3u8
 #EXTINF:-1,DD Goa الهند
@@ -422,12 +394,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
 #EXTINF:-1,DD Jharkhand الهند
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8
-#EXTINF:-1,DD KASHMIR الهند
-https://cdn-6.pishow.tv/live/16/master.m3u8
-#EXTINF:-1,DD Kisan الهند
-https://cdn-6.pishow.tv/live/9/master.m3u8
-#EXTINF:-1,DD Madhya Pradesh الهند
-https://cdn-1.pishow.tv/live/31/master.m3u8
 #EXTINF:-1,DD Malayalam الهند
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
 #EXTINF:-1,DD Manipur الهند
@@ -448,16 +414,8 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
 #EXTINF:-1,DD Saptagiri الهند
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
-#EXTINF:-1,DD Sports الهند
-https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1,DD Tripura الهند
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index_3.m3u8
-#EXTINF:-1,DD Urdu الهند
-https://cdn-4.pishow.tv/live/8/master.m3u8
-#EXTINF:-1,DD Uttar Pradesh الهند
-https://cdn-1.pishow.tv/live/36/master.m3u8
-#EXTINF:-1,DD Uttarakhand الهند
-https://cdn-1.pishow.tv/live/17/master.m3u8
 #EXTINF:-1,Depor الأرجنتين
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
 #EXTINF:-1,Dien Bien TV فيتنام
@@ -570,8 +528,6 @@ https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
 #EXTINF:-1,FRT FETHİYE تركيا
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
-#EXTINF:-1,FTV تايوان
-https://stream1.freetv.fun/60a9f375b5ab425ec19fa7c0ed5d870d05bbbb21e04b95b696734bfb1243e083.ctv
 #EXTINF:-1,Galicia e اسبانيا
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1,GB انجلترا
@@ -582,8 +538,6 @@ http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 #EXTINF:-1,GIFTGI تركيا
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-#EXTINF:-1,Global News National كندا
-https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
 #EXTINF:-1,Global Punjab الهند
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 #EXTINF:-1,Goiena Eus اسبانيا
@@ -629,8 +583,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/in
 https://edge1.socialsmart.tv/altastv/bant1/index.m3u8
 #EXTINF:-1,India Today الهند
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1,iNews اندونيسيا
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1,IP Noticias الأرجنتين
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
 #EXTINF:-1,ITV Patagonia شيلي
@@ -768,8 +720,6 @@ https://live.mnb.mn/hls/mnb_world.stream.m3u8
 https://cdn3.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
 #EXTINF:-1,MNB منغوليا
 https://live.mnb.mn/hls/mnb.stream.m3u8
-#EXTINF:-1,MNC منغوليا
-https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
 #EXTINF:-1,MNCTV اندونيسيا
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1,Mor تركيا
@@ -854,8 +804,6 @@ https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 https://streaming.thestream.cyou/live/213.m3u8
 #EXTINF:-1,NTV روسيا
 https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1,NTV منغوليا
-https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
 #EXTINF:-1,Oberpfalz المانيا
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
 #EXTINF:-1,OIK التشيك
@@ -866,8 +814,6 @@ https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 #EXTINF:-1,Onda Cadiz اسبانيا
 https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
-#EXTINF:-1,ONTV منغوليا
-https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8
 #EXTINF:-1,ORTB TV بنين
 http://69.64.57.208/ortb/playlist.m3u8
 #EXTINF:-1,ORTM1 مالي
@@ -1255,14 +1201,10 @@ http://69.64.57.208/tvt/playlist.m3u8
 https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
 #EXTINF:-1,TVU شيلي
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1,UBS منغوليا
-https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
 #EXTINF:-1,UCL اوروغواي
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1,UCV شيلي
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1,Ulzii TV منغوليا
-https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8
 #EXTINF:-1,Unife الأرجنتين
 https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
 #EXTINF:-1,Urola Telebista اسبانيا
@@ -1641,8 +1583,6 @@ https://stream.streaming4u.hu/BerenteTV/index.m3u8
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1,بريتا ساتو اندونيسيا
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8
-#EXTINF:-1,بريتا ماليزيا
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1,بشكورتستان روسيا
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1,بلوگراد روسيا
@@ -1705,8 +1645,6 @@ https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1,پورمرند هولندا
 https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
-#EXTINF:-1,پولار 2 التشيك
-https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
 #EXTINF:-1,پولار التشيك
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 #EXTINF:-1,پويبلا المكسيك
@@ -1885,8 +1823,6 @@ http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1,روسيا المجهولة
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
-#EXTINF:-1,رؤيا الأردن
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
 #EXTINF:-1,رويا ايران
 https://ncdn.telewebion.ir/iribu/live/playlist.m3u8
 #EXTINF:-1,رياضة استراخان روسيا
@@ -1921,8 +1857,6 @@ https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1,زاگرس ايران
 https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
-#EXTINF:-1,زامبرو بولندا
-https://www.youtube.com/watch?v=WqVkyusyXSg
 #EXTINF:-1,زفيفدا روسيا
 https://streaming.televizor-24-tochka.ru/live/748.m3u8
 #EXTINF:-1,زلث هولندا
@@ -1973,8 +1907,6 @@ https://ncdn.telewebion.ir/sabz/live/playlist.m3u8
 https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8
 #EXTINF:-1,ستاديوم امريكا
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
-#EXTINF:-1,ستايل فرنسا
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1,ستريم ستي
 http://iptv.prosto.tv:7000/ch321/video.m3u8
 #EXTINF:-1,سچ اكستان
@@ -2313,10 +2245,6 @@ https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1,ماگنت روسيا
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:-1,مالچين منغوليا
-https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
-#EXTINF:-1,مامر لوكسمبورغ
-https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8
 #EXTINF:-1,ماناس قرغيزستان
 http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1,مترو الأرجنتين
@@ -4699,22 +4627,14 @@ https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
 https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
 #EXTINF:-1,آسيا الكبرى روسيا
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1,آسياپلس الهند
-http://217.20.112.199/asianet/index.m3u8
-#EXTINF:-1,آسيان ماليزيا rtm
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1,اسيري بيرو
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1,اشراق زنجان
-https://ncdn.telewebion.com/eshragh/live/playlist.m3u8
 #EXTINF:-1,اصفهان
 https://lenz.splus.ir/PLTV/88888888/224/3221226652/index.m3u8
 #EXTINF:-1,افاز تركيا
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,آفاق العراق
 http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8
-#EXTINF:-1,آفتاب مركزي
-https://lenz.splus.ir/PLTV/88888888/224/3221226899/index.m3u8
 #EXTINF:-1,افرس اوكرانيا
 https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1,افروترك تركيا
@@ -4725,10 +4645,6 @@ https://live.ecomservice.bg/hls/stream.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
 #EXTINF:-1,افق ايران
 https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8
-#EXTINF:-1,افلاك لرستان
-https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8
-#EXTINF:-1,اكسپرس نيوز پاكستان
-https://ythls.armelin.one/channel/UCTur7oM6mLL0rM2k0znuZpQ.m3u8
 #EXTINF:-1,اكسپرسن السويد
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
 #EXTINF:-1,اكسترا مادورا اسبانيا
@@ -5273,8 +5189,6 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1,ايران الرابعة
 https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1,ايران من ايران
-https://ncdn.telewebion.com/iraneman/live/playlist.m3u8
 #EXTINF:-1,ايرنا ايران
 https://tv.irna.ir/live/stream/index.m3u8
 #EXTINF:-1,ايسانگو رواندا
@@ -5313,8 +5227,6 @@ https://ekusheyserver.com/etvlivesn.m3u8
 http://194.143.148.28:8080/RT_DOC/index.m3u8
 #EXTINF:-1,ايگل نيوز منغوليا
 https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
-#EXTINF:-1,ايلام
-https://ncdn.telewebion.com/ilam/live/playlist.m3u8
 #EXTINF:-1,ايمس المانيا
 https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
 #EXTINF:-1,ايونيان اليونان
@@ -5325,8 +5237,6 @@ https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u
 https://live.teleradiocom.tj/11/3m.m3u8
 #EXTINF:-1,بادن المانيا
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1,باران گيلان
-https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8
 #EXTINF:-1,بالاپان كازاخستان
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1,بالاتون المجر
@@ -5361,8 +5271,6 @@ https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/ma
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1,بريونيه فرنسا
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
-#EXTINF:-1,بشكورتستان روسيا
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1,بك نيوز امريكا
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
 #EXTINF:-1,بل پاكستان
@@ -5405,8 +5313,6 @@ https://www.burrianateve.com/hls/btv.m3u8
 http://78.96.33.89:8080
 #EXTINF:-1,بوستون امريكا cbc
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
-#EXTINF:-1,بوشهر
-https://ncdn.telewebion.com/bushehr/live/playlist.m3u8
 #EXTINF:-1,بولت روسيا
 https://stream1.freetv.fun/32241591ab7899d2acf9ae4d8763b37c30f1751c74dd6a3fb8148fef06d2c8ef.m3u8
 #EXTINF:-1,بولسكه 24 بولندا
@@ -5474,13 +5380,7 @@ https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8
 #EXTINF:-1,پالترا جورجيا
 https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1,پانون صربيا
-https://stream.nmih.hu:4102/live.m3u8
-#EXTINF:-1,پاور نيشن امريكا
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b48016d9dd51000828fa37/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6275-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=534f5abf-183b-4b07-88d8-ba60af3de510
-#EXTINF:-1,پبلك پاكستان
-https://ythls.armelin.one/channel/UCElJZvY_RVra6qjD8WSQYog.m3u8
-#EXTINF:-1,پتسبرگ امريكا cbc
-https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
+https://stream.nmih.hu:4102/live.m3u
 #EXTINF:-1,پراتو ايطاليا
 https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,پرزني كوسوفو
@@ -5551,8 +5451,6 @@ https://stream.streaming4u.hu/PilisTV/index.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
 #EXTINF:-1,تاجيكستان طاجيكستان
 https://live.teleradiocom.tj/1/3m.m3u8
-#EXTINF:-1,تاريم تركيا
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1,تافريا روسيا
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1,تام فنزويلا
@@ -5595,26 +5493,12 @@ https://cdn-live.dltv.ac.th/dltv13.m3u8
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1,تايلاند dltv15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
-#EXTINF:-1,تايوان cti
-https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-#EXTINF:-1,تايوان ftv
-https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
-#EXTINF:-1,تايوان mnews
-https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:-1,تايوان set inews
-https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
-#EXTINF:-1,تايوان tvbs
-https://stream1.freetv.fun/cd5157545b82f5dd9d883d92e2a9604dc937707818140cc89c4358c48e5374d0.ctv
 #EXTINF:-1,ترا فنه فيتنام
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
 #EXTINF:-1,تراسا اسبانيا
 https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
 #EXTINF:-1,ترافل بلغاريا
 https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:-1,ترانز 2 اندونيسيا
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:-1,ترانز اندونيسيا
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1,ترك هبر تركيا
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1,تركمنستان تركمنستان
@@ -5689,8 +5573,6 @@ https://hls.tamadon.live/hls/stream.m3u8
 http://176.65.146.237:8401/play/a0al/index.m3u8
 #EXTINF:-1,تنزانيا tbc1
 https://ythls.armelin.one/channel/UCEz71zXmApKBYiH1fReemeA.m3u8
-#EXTINF:-1,تهران
-https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
 #EXTINF:-1,توپ نيوز تايلاند
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1,توچكا روسيا
@@ -5711,8 +5593,6 @@ http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/in
 https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
 #EXTINF:-1,تي 18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1,تي ان الأرجنتين
-https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:-1,تي في ان استونيا
 https://s4.telset.ee/tvn/index.m3u8?filter.tracks=v1a1&token=tvn_token
 #EXTINF:-1,تيرول النمسا
@@ -5743,8 +5623,6 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1,تيليفر الدومينيكان
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
-#EXTINF:-1,تيمور اندونيسيا
-http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1,ثقافية عمان
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1,جارخند الهند dd
@@ -5763,8 +5641,6 @@ https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
 #EXTINF:-1,جهان نما طاجيكستان
 https://live.teleradiocom.tj/4/3m.m3u8
-#EXTINF:-1,جهانبين چهارمحال وبختياري
-https://ncdn.telewebion.com/jahanbin/live/playlist.m3u8
 #EXTINF:-1,جورجيا 1
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1,جورجيا 2
@@ -5777,22 +5653,10 @@ https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1,جوي نيوز غانا
 https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8
-#EXTINF:-1,جيبوتي rtd4
-https://ythls.armelin.one/channel/UCB0NxICFmGabAalD46J2i4A.m3u8
 #EXTINF:-1,جيهوسيسكا التشيك
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
-#EXTINF:-1,جيو پاكستان
-http://116.90.120.149:8000/play/a021/index.m3u8
-#EXTINF:-1,جيو سوپر پاكستان
-http://116.90.120.149:8000/play/a021/index.m3u8
-#EXTINF:-1,جيو كهاني پاكستان
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1,چاتيسگر الهند dd
 https://cdn-1.pishow.tv/live/15/master.m3u8
-#EXTINF:-1,چارانا سريلانكا
-https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
-#EXTINF:-1,چامبر لوكسمبورغ
-https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
 #EXTINF:-1,چاي تركيا
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 #EXTINF:-1,چندانا الهند dd
@@ -5815,26 +5679,14 @@ https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1,ختلون طاجيكستان
 https://live.teleradiocom.tj/10/3m.m3u8
-#EXTINF:-1,خراسان رضوي
-https://ncdn.telewebion.com/khorasanrazavi/live/playlist.m3u8
 #EXTINF:-1,خزر آذربيجان
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/az/xezer-tv.m3u8
-#EXTINF:-1,خليج فارس هرمزگان
-https://ncdn.telewebion.com/khalijefars/live/playlist.m3u8
-#EXTINF:-1,خوزستان
-https://lenz.splus.ir/PLTV/88888888/224/3221226415/index.m3u8
 #EXTINF:-1,داغستان روسيا
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1,دامي بولندا
 https://ythls.armelin.one/channel/UCL1u3cY7_nPjbZmKljCy_Cw.m3u8
-#EXTINF:-1,داون پاكستان
-https://ythls.armelin.one/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8
 #EXTINF:-1,داين باين فيتنام
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
-#EXTINF:-1,دبي الإمارات
-https://stream1.freetv.fun/2240f82fa580396c6c624cb2d2adfdd4efbbbe6dc0564e2cf1fd873b68452fe7.m3u8
-#EXTINF:-1,دبي ون الإمارات
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1,درنث هولندا
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 #EXTINF:-1,دريتا البانيا
@@ -5849,8 +5701,6 @@ https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8
 http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1,دن هاگ هولندا
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
-#EXTINF:-1,دنا كهگيلويه وبويراحمد
-https://ncdn.telewebion.com/dena/live/playlist.m3u8
 #EXTINF:-1,دنفر امريكا
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
 #EXTINF:-1,دنيا آذربيجان
@@ -5987,8 +5837,6 @@ https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 http://92.247.25.42:11536/
 #EXTINF:-1,رومانيا tvri
 http://92.247.25.42:11536/
-#EXTINF:-1,رؤيا الأردن
-https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1,رويا ايران
 https://ncdn.telewebion.com/iribu/live/playlist.m3u8
 #EXTINF:-1,رويترز
@@ -6011,22 +5859,8 @@ https://trn03.tulix.tv/gt-trt-spor1/playlist.m3u8
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1,رياضة استراخان روسيا
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1,رياضة افغانستان rta
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
-#EXTINF:-1,رياضة البانيا rtsh hd
-http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:-1,رياضة التشيك
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1,رياضة الشارقة
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1,رياضة الكأس 2 قطر
-https://stream1.freetv.fun/2210232b458c8d6411bf282344d0a6b7b508aec1bd680d84220af0cac3024db7.m3u8
-#EXTINF:-1,رياضة الكأس 3 قطر
-https://stream1.freetv.fun/c46fac15ef66195b8f3ac58056e4efb5d3f8326ab5e3d1b7ff939ce6efcda3e2.m3u8
-#EXTINF:-1,رياضة الكأس 4 قطر
-https://Streamer3.qna.org.qa:443/148164621_live/148164621_296.sdp/playlist.m3u8
-#EXTINF:-1,رياضة الكاس الرابعة
-https://Streamer3.qna.org.qa:443/148164621_live/148164621_296.sdp/playlist.m3u8
 #EXTINF:-1,رياضة المانيا more than sports
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1,رياضة المانيا sport 1
@@ -6055,24 +5889,14 @@ https://stream1.freetv.fun/60ae6a818a321f4793efd3edf189a553b0113d5a2524ab4490b07
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1,رياضة تركيا sports
 https://stream1.freetv.fun/65e8c1f7f81c0e0017028b3e76ab5903df4fb116e9f4dd733fd0b5adecb11d6f.m3u8
-#EXTINF:-1,رياضة دبي الإمارات
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1,رياضة روسيا
 http://31.148.48.15/Futbol_HD/index.m3u8
 #EXTINF:-1,رياضة ستاديوم
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
 #EXTINF:-1,رياضة سكاي سپورت
 https://a1xs.vip/700031
-#EXTINF:-1,رياضة سوكان ماليزيا
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1,رياضة فوتبول طاجيكستان
-https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1,رياضة فويل النمسا
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-#EXTINF:-1,رياضة منغوليا
-https://cdn3.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
-#EXTINF:-1,رياضة ورزش ايران
-https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 #EXTINF:-1,ريال جورجيا
 http://nue01-edge01.itdc.ge/rioni/tracks-v1a1/mono.m3u8?token=e0zHENLTllE9fjNeQ3PrkCafgaT-eX3bCmZquqUOpX8n-kGNl0yZ68jl76la9Ok5YepMwqeak9Y0FXRaBkQRVVE8CKQysCyVUTAlw5jMTlhwMVaWzpqOnwuCqPKlYtZtXuyzX87nGy-Nin4kQcPrtzN2ilj0yoqEH2K0E71wM7W7XSusqJkAtVJno52mhEojkowQtqb-ybkq5mfcse04vucxadoeZOBeZY_zaf_hIkSBH9u52C-w8BH7B3ToX1fFySoQKpTkYdvYof68uJaj-LEHvVzs8zxliBxwuns7Hot_AwKaOwe8qAjW2hYkK1sh
 #EXTINF:-1,ريبيرا اسبانيا
@@ -6101,8 +5925,6 @@ https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 https://ythls.armelin.one/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 #EXTINF:-1,زاگرس كرد العراق
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1,زاگرس كرمانشاه
-https://ncdn.telewebion.com/zagros/live/playlist.m3u8
 #EXTINF:-1,زاليگرسگي المجر
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 #EXTINF:-1,زد تركيا
@@ -6163,16 +5985,10 @@ https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 https://stream1.freetv.fun/039dfef60560b3de2b57edc4976c77a817905d1fc0e3c8e1fc1a9230efd52078.m3u8
 #EXTINF:-1,ساهيادري الهند dd
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
-#EXTINF:-1,سبز گلستان
-https://ncdn.telewebion.com/sabz/live/playlist.m3u8
-#EXTINF:-1,سبلان اردبيل
-https://ncdn.telewebion.com/sabalan/live/playlist.m3u8
 #EXTINF:-1,سپاس روسيا
 https://streaming.televizor-24-tochka.ru/live/15.m3u8
 #EXTINF:-1,سپرمبرگ المانيا
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
-#EXTINF:-1,ستايل فرنسا
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1,ستولبرگ المانيا
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:-1,ستي 41 پاكستان
@@ -6187,8 +6003,6 @@ https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1,سفر ترافل اكس پي
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
-#EXTINF:-1,سفرة مصر cbc
-http://213.57.91.138:8000/play/a06p
 #EXTINF:-1,سفينا طاجيكستان
 https://live.teleradiocom.tj/2/3m.m3u8
 #EXTINF:-1,سكاي اليونان
@@ -6227,8 +6041,6 @@ http://93.103.246.35:10205
 https://ythls.armelin.one/channel/UCJekW1Vj5fCVEGdye_mBN6Q.m3u8
 #EXTINF:-1,سمپيت اندونيسيا
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
-#EXTINF:-1,سمنان
-https://ncdn.telewebion.com/semnan/live/playlist.m3u8
 #EXTINF:-1,سن السنغال
 http://69.64.57.208/sentv/playlist.m3u8
 #EXTINF:-1,سنادو البرازيل
@@ -6249,14 +6061,10 @@ https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
 #EXTINF:-1,سنترال منغوليا
 https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8
-#EXTINF:-1,سند پاكستان
-https://ythls.armelin.one/channel/UCdNrdgAx3bT6tXJ-RJ9dOBA.m3u8
 #EXTINF:-1,سنزي سلوفاكيا
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1,سنغافورة cna
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1,سهند آذربايجان شرقي
-https://lenz.splus.ir/PLTV/88888888/224/3221226423/index.m3u8
 #EXTINF:-1,سوپر اكسپرس بولندا
 https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
 #EXTINF:-1,سوپر پلسات بولندا
@@ -6373,16 +6181,12 @@ https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1,عجمان الإمارات
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1,عدن اليمن
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/adentv.m3u8
 #EXTINF:-1,عشق آباد تركمنستان
 https://alpha.tv.online.tm/legacyhls/ch006.m3u8
 #EXTINF:-1,علم وطبيعت طاجيكستان
 https://live.teleradiocom.tj/15/3m.m3u8
 #EXTINF:-1,عمان الأردن
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1,عمان الرياضية
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1,عمان عمان
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1,غابون 24
@@ -6393,8 +6197,6 @@ http://69.64.57.208/rtg/playlist.m3u8
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1,فاراتي الهند dd
 https://cdn-1.pishow.tv/live/10/master.m3u8
-#EXTINF:-1,فارس
-https://lenz.splus.ir/PLTV/88888888/224/3221226701/index.m3u8
 #EXTINF:-1,فاروس اليونان
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1,فاف تركيا
@@ -6409,8 +6211,6 @@ https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1,فرانس 24 فرنسا
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
-#EXTINF:-1,فرانس انفو فرنسا
-https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 #EXTINF:-1,فرانس لا 1 اير فرنسا
 https://stream1.freetv.fun/19c6a0e82b32ef78858b5775d26479f6bf891770d8084e469ed8fdafd8afe937.m3u8
 #EXTINF:-1,فرانك فرنسهن المانيا
@@ -6513,8 +6313,6 @@ https://live.djemba.ro/live/qubtvlive/playlist.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1,قزاقستان كازاخستان
 https://stream1.freetv.fun/c208d411642d65080066fe871f019246cc59f1b03a104a700d5653f5740bba25.m3u8
-#EXTINF:-1,قزوين
-https://lenz.splus.ir/PLTV/88888888/224/3221226888/index.m3u8
 #EXTINF:-1,قفقاز روسيا
 http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1,قناة ابوالفضل العباس ع من كربلاء
@@ -6639,10 +6437,6 @@ http://88.86.133.164:9981/stream/channelid/866295582?profile=matroska
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1,كرد العراق nrt
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1,كردستان ايران
-https://lenz.splus.ir/PLTV/88888888/224/3221226647/index.m3u8
-#EXTINF:-1,كرمان
-https://lenz.splus.ir/PLTV/88888888/224/3221226856/index.m3u8
 #EXTINF:-1,كرواتيا hrt international
 http://5.57.74.130:8000/play/a03f/index.m3u8
 #EXTINF:-1,كرواتيا hrt international
@@ -6877,8 +6671,6 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1,مازاتلان المكسيك
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1,مازندران
-https://lenz.splus.ir/PLTV/88888888/224/3221226786/index.m3u8
 #EXTINF:-1,ماستريخت هولندا
 http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 #EXTINF:-1,ماسيو البرازيل
@@ -6901,10 +6693,6 @@ https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 #EXTINF:-1,مالي ortm1
 http://69.64.57.208/ortm/playlist.m3u8
-#EXTINF:-1,ماليزيا 1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-#EXTINF:-1,ماليزيا 2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1,ماليزيا 6
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3829f99b-4951-4a9d-98c1-dbc3acfe5193/2.m3u8
 #EXTINF:-1,مامر لوكسمبورغ
@@ -7077,8 +6865,6 @@ https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 #EXTINF:-1,نوتيوي اليونان
 https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:-1,نور قم
-https://ncdn.telewebion.com/noor/live/playlist.m3u8
 #EXTINF:-1,نوربا ايطاليا
 https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 #EXTINF:-1,نورد اكسترا هولندا
@@ -7147,8 +6933,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/in
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1,هامبورگ المانيا ndr
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1,هامون سيستان وبلوچستان
-https://ncdn.telewebion.com/hamoon/live/playlist.m3u8
 #EXTINF:-1,هاندي كاپ فرنسا
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1,هاي اليونان
@@ -7163,10 +6947,6 @@ https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u
 https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8
 #EXTINF:-1,هلك تركيا
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1,هم پاكستان
-https://ythls.armelin.one/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8
-#EXTINF:-1,همدان
-https://ncdn.telewebion.com/sina/live/playlist.m3u8
 #EXTINF:-1,هملن فنلندا
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 #EXTINF:-1,هندوراس ctv
@@ -7235,8 +7015,6 @@ http://38.183.182.166:8000/play/a0zn/index.m3u8
 https://alpha.tv.online.tm/legacyhls/ch002.m3u8
 #EXTINF:-1,ياقوتيا روسيا
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1,يزد
-https://lenz.splus.ir/PLTV/88888888/224/3221227023/index.m3u8
 #EXTINF:-1,يمن شباب اليمن
 https://starmenajo.com/hls/yemenshabab/index.m3u8
 #EXTINF:-1,يني چاغ تركيا
@@ -7299,3 +7077,51 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 https://allcutv.rctiplus.id/inews2023.m3u8
 #EXTINF:-1,سيلك واي كازاخستان
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+#EXTINF:-1,DD Kisan
+https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8	
+#EXTINF:-1,DD Kashir
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8	
+#EXTINF:-1,DD Bihar
+https://cdn.pishow.tv/ott/live/35/master.m3u8
+#EXTINF:-1,DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
+#EXTINF:-1,DD Madhya Pradesh
+https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
+#EXTINF:-1,DD Uttar Pradesh
+https://cdn.pishow.tv/ott/live/36/master.m3u8	
+#EXTINF:-1,Suld TV
+https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpdTV (1080p)
+#EXTINF:-1,Malchin
+*PotPlayerPlayListItem*	https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd TV (1080p) Mongolia  0 0	
+#EXTINF:-1,3cat camera catalunya اسبانيا
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1,3CatInfo اسبانيا
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1,viju Nature
+https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
+#EXTINF:-1,Soweto TV
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+#EXTINF:-1,زيمبو انغولا
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+#EXTINF:-1,شانت ارمينيا
+http://stream.mcquack.net/37/index.m3u8
+#EXTINF:-1,ستيرمارك النمسا
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+#EXTINF:-1,RTV بنغلاديش
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+#EXTINF:-1,Vitebsk بيلاروس
+https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
+#EXTINF:-1,Apsua TV جورجيا
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8
+#EXTINF:-1,TV Pirveli جورجيا
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts
+#EXTINF:-1,IRIB UHD ايران
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+#EXTINF:-1,افار العراق
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+#EXTINF:-1,رؤيا الأردن
+https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
+#EXTINF:-1,Mexiquense TV المكسيك
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1,هم باكستان
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
